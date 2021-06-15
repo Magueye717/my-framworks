@@ -1,7 +1,7 @@
 {
   "name": "my-cards",
   "version": "0.1.0",
-  "homepage": "https://github.com/Magueye717/my-framworks",
+  "homepage": "https://Magueye717.github.io/my-framworks",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
