@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Magueye717/my-framworks/static/css/main.1371d2b7.chunk.css",
-    "main.js": "/Magueye717/my-framworks/static/js/main.ade63d85.chunk.js",
-    "main.js.map": "/Magueye717/my-framworks/static/js/main.ade63d85.chunk.js.map",
-    "runtime-main.js": "/Magueye717/my-framworks/static/js/runtime-main.4b01955e.js",
-    "runtime-main.js.map": "/Magueye717/my-framworks/static/js/runtime-main.4b01955e.js.map",
-    "static/js/2.12b3c39f.chunk.js": "/Magueye717/my-framworks/static/js/2.12b3c39f.chunk.js",
-    "static/js/2.12b3c39f.chunk.js.map": "/Magueye717/my-framworks/static/js/2.12b3c39f.chunk.js.map",
-    "index.html": "/Magueye717/my-framworks/index.html",
-    "static/css/main.1371d2b7.chunk.css.map": "/Magueye717/my-framworks/static/css/main.1371d2b7.chunk.css.map",
-    "static/js/2.12b3c39f.chunk.js.LICENSE.txt": "/Magueye717/my-framworks/static/js/2.12b3c39f.chunk.js.LICENSE.txt"
+    "main.css": "/my-framworks/static/css/main.1371d2b7.chunk.css",
+    "main.js": "/my-framworks/static/js/main.ade63d85.chunk.js",
+    "main.js.map": "/my-framworks/static/js/main.ade63d85.chunk.js.map",
+    "runtime-main.js": "/my-framworks/static/js/runtime-main.c1d7dc84.js",
+    "runtime-main.js.map": "/my-framworks/static/js/runtime-main.c1d7dc84.js.map",
+    "static/js/2.12b3c39f.chunk.js": "/my-framworks/static/js/2.12b3c39f.chunk.js",
+    "static/js/2.12b3c39f.chunk.js.map": "/my-framworks/static/js/2.12b3c39f.chunk.js.map",
+    "index.html": "/my-framworks/index.html",
+    "static/css/main.1371d2b7.chunk.css.map": "/my-framworks/static/css/main.1371d2b7.chunk.css.map",
+    "static/js/2.12b3c39f.chunk.js.LICENSE.txt": "/my-framworks/static/js/2.12b3c39f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b01955e.js",
+    "static/js/runtime-main.c1d7dc84.js",
     "static/js/2.12b3c39f.chunk.js",
     "static/css/main.1371d2b7.chunk.css",
     "static/js/main.ade63d85.chunk.js"
